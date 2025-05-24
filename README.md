@@ -8,4 +8,4 @@ Loss Criterion: BCE With Logits
 
 Performed on Chicago traffic camera images in a dataset organized hierarchically, which is parsed per-scene in the BFSDataset() code.
 
-Access training data here: <a href="https://github.com/octocat/my-repo/releases/download/v1.0/my_project.zip" download>Download ZIP</a>
+Access training data here: <a href="https://github.com/siddhshah/CNN-BFS/releases/tag/v1.0" download>Download ZIP</a>
