@@ -11,3 +11,4 @@ Results:
 **Note**: IoU is performing poorly at the moment and prediction image is noisy; will be fixed in a future commit.
 
 Access training data here: <a href="https://github.com/siddhshah/CNN-BFS/releases/tag/v1.0" download>Download ZIP</a>
+- Please edit image and annotation paths in the code accordingly to match the location of the dataset in your filesystem.
